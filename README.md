@@ -1,33 +1,50 @@
-🚲 London Bike Rides Analysis
+# 🚴‍♂️ London Bike Ride Analysis
 
-This project explores and visualizes London’s bike-sharing data to uncover patterns, trends, and insights into urban mobility.
+A data analysis and visualization project exploring bike usage patterns across London. This project focuses on understanding daily, monthly, and seasonal riding trends using real-world bike rental data. It includes data cleaning, preprocessing, exploratory data analysis (EDA), and insight generation to identify factors influencing bike demand.
 
-📂 Project Files
+---
 
-London_Bike_Rides.ipynb – Data preprocessing, cleaning, and exploratory analysis in Python.
+## 📌 Features
+- Comprehensive data cleaning and preprocessing  
+- Analysis of rental trends across hours, days, and seasons  
+- Identification of peak usage times and ride patterns  
+- Correlation analysis of weather, temperature, and bike demand  
+- Visualizations for trends, patterns, and anomalies  
+- Actionable insights for transportation planning and bike-sharing systems  
 
-london_bikes_final.xlsx – Final processed dataset used for visualization and modeling.
+---
 
-London_Bike_Rides.twb – Tableau dashboard for interactive visual exploration.
+## 📂 Dataset Information
+The dataset includes:
+- Date & time  
+- Number of bike rentals  
+- Temperature & weather conditions  
+- Humidity  
+- Season & holiday indicators  
 
+---
 
-🔍 Key Features
+## 📊 Exploratory Data Analysis (EDA)
+The EDA covers:
+- Time-series trend analysis  
+- Seasonal and monthly usage patterns  
+- Weather impact on bike rentals  
+- Hourly demand peaks  
+- Correlation heatmaps and distribution plots  
 
-Data preprocessing & cleaning of raw ride data.
+---
 
-Exploratory Data Analysis (EDA) to identify seasonal patterns, peak usage times, and weather impact.
+## 🛠 Tools & Technologies
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Jupyter Notebook / Google Colab
+-  **Tableau** (for interactive dashboards and visualizations)  
 
-Interactive Tableau dashboard for trend visualization.
+---
 
-Insights into factors influencing ride demand (time, weather, seasonality).
+## 🎯 Project Outcome
+The analysis provides clear insights into how weather, time, and seasonality affect bike rental volume in London, helping optimize resource allocation, bike availability, and transportation planning.
 
-
-🛠️ Tools & Technologies
-
-Python (Pandas, Matplotlib, Seaborn)
-
-Tableau for dashboard visualization
-
-Excel for data preparation
-
+---
 
