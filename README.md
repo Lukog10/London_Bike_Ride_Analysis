@@ -1,10 +1,10 @@
-# 🚴‍♂️ London Bike Ride Analysis
+# London Bike Ride Analysis
 
 A data analysis and visualization project exploring bike usage patterns across London. This project focuses on understanding daily, monthly, and seasonal riding trends using real-world bike rental data. It includes data cleaning, preprocessing, exploratory data analysis (EDA), and insight generation to identify factors influencing bike demand.
 
 ---
 
-## 📌 Features
+## Features
 - Comprehensive data cleaning and preprocessing  
 - Analysis of rental trends across hours, days, and seasons  
 - Identification of peak usage times and ride patterns  
@@ -14,7 +14,7 @@ A data analysis and visualization project exploring bike usage patterns across L
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 The dataset includes:
 - Date & time  
 - Number of bike rentals  
@@ -24,7 +24,7 @@ The dataset includes:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 The EDA covers:
 - Time-series trend analysis  
 - Seasonal and monthly usage patterns  
@@ -34,7 +34,7 @@ The EDA covers:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -43,7 +43,7 @@ The EDA covers:
 
 ---
 
-## 🎯 Project Outcome
+## Project Outcome
 The analysis provides clear insights into how weather, time, and seasonality affect bike rental volume in London, helping optimize resource allocation, bike availability, and transportation planning.
 
 ---
